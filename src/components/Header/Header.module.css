@@ -11,10 +11,11 @@
 .header span{
     font-weight: bold;
     font-size: 1.5rem;
+    color: #323238;
 }
 
 .header nav a{
-    color: #e1e1e6;
+    color: #706901;
     text-decoration: none;
     margin-left: 1.5rem;
     font-size: 1rem;
