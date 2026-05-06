@@ -8,9 +8,9 @@
     margin: 0 auto;
     background: linear-gradient(#041668 50%, #000 100%);
 
-    @media(max-width: 768px) {
+    @media(max-width: 750px) {
         flex-direction: column;
-        padding: 4rem 2rem;
+        text-align: center;
         gap: 2rem;
 
     }
@@ -75,6 +75,7 @@
     }
 
     .heroImage img {
+        width: 100%;
         width: 400px;
         height: 250px;
         border-radius: 10%;
